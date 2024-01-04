@@ -1,0 +1,65 @@
+{
+    "data": [
+        {
+            "usuario" : "ADMIN",
+            "clave" : "*********",
+            "nombre" : "ADMIN SYSTEM",            
+            "personaNumero" : 1,
+            "ultimoLogin" : "10/10/2000",
+            "estado": "A",
+            "fechaModif" : "10/10/2000",
+            "usuarioModif" : "ADMIN",
+            "fechaCreacion" : "10/10/2000",
+            "usuarioCreacion" : "ADMIN"        
+        },
+        {
+            "usuario" : "ACCR",
+            "clave" : "*********",
+            "nombre" : "Armas Claros, Cristopher Ricardo",            
+            "personaNumero" : 1,
+            "ultimoLogin" : "10/10/2000",
+            "estado": "A",
+            "fechaModif" : "10/10/2000",
+            "usuarioModif" : "ADMIN",
+            "fechaCreacion" : "10/10/2000",
+            "usuarioCreacion" : "ADMIN"        
+        },
+        {
+            "usuario" : "GAAJ",
+            "clave" : "*********",
+            "nombre" : "Gustin Angulo, Andrea Jimena",            
+            "personaNumero" : 1,
+            "ultimoLogin" : "10/10/2000",
+            "estado": "A",
+            "fechaModif" : "10/10/2000",
+            "usuarioModif" : "ADMIN",
+            "fechaCreacion" : "10/10/2000",
+            "usuarioCreacion" : "ADMIN"        
+        },
+        {
+            "usuario" : "ACCM",
+            "clave" : "*********",
+            "nombre" : "Armas Claros, Camila Marcia",            
+            "personaNumero" : 1,
+            "ultimoLogin" : "10/10/2000",
+            "estado": "I",
+            "fechaModif" : "10/10/2000",
+            "usuarioModif" : "ADMIN",
+            "fechaCreacion" : "10/10/2000",
+            "usuarioCreacion" : "ADMIN"        
+        },
+        {
+            "usuario" : "AVJA",
+            "clave" : "*********",
+            "nombre" : "Alvino Velasque, Jose Antonio",            
+            "personaNumero" : 1,
+            "ultimoLogin" : "10/10/2000",
+            "estado": "A",
+            "fechaModif" : "10/10/2000",
+            "usuarioModif" : "ADMIN",
+            "fechaCreacion" : "10/10/2000",
+            "usuarioCreacion" : "ADMIN"        
+        }
+        
+    ]
+}
